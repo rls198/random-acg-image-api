@@ -1,5 +1,5 @@
 # random-acg-image-api
-随机二次元图片
+随机二次元图片API
 
 ### API 端点：
 
