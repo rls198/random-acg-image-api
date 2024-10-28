@@ -12,7 +12,6 @@
 - **URL**：[`https://api.rls.icu/横屏`](https://api.rls.icu/横屏) 或 [`https://api.rls.icu/horizontal`](https://api.rls.icu/horizontal)
 - **图片数量**：1000张
 - **分辨率**：4K - 10K
-- **描述**：适合横屏显示的高清ACG图片，分辨率从4K到8K。
 - **线路参数**：支持手动指定运营商线路  
   - 电信：`?线路=电信` 或 `?isp=ctcc`
   - 联通：`?线路=联通` 或 `?isp=cucc`
@@ -26,7 +25,6 @@
 - **URL**：[`https://api.rls.icu/竖屏`](https://api.rls.icu/竖屏) 或 [`https://api.rls.icu/vertical`](https://api.rls.icu/vertical)
 - **图片数量**：1000张
 - **分辨率**：2K - 8K
-- **描述**：适合竖屏显示的高清ACG图片，分辨率从2K到8K。
 - **线路参数**：支持手动指定运营商线路  
   - 电信：`?线路=电信` 或 `?isp=ctcc`
   - 联通：`?线路=联通` 或 `?isp=cucc`
