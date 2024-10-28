@@ -6,23 +6,23 @@
 #### 横屏图片：
 
 - **请求方式**：GET
-- **URL**：[`https://api.rulian.us.kg/horizontal`](https://api.rulian.us.kg/horizontal)
-- **图片数量**：800张
+- **URL**：[`https://api.rls.icu/横屏`](https://api.rls.icu/横屏)
+- **图片数量**：1000张
 - **分辨率**：4K - 8K
 - **描述**：获取适合横屏显示的高清ACG图片，分辨率从4K到8K。
 
 #### 竖屏图片：
 
 - **请求方式**：GET
-- **URL**：[`https://api.rulian.us.kg/vertical`](https://api.rulian.us.kg/vertical)
-- **图片数量**：800张
+- **URL**：[`https://api.rls.icu/竖屏`](https://api.rls.icu/竖屏)
+- **图片数量**：1000张
 - **分辨率**：2K - 8K
 - **描述**：获取适合竖屏显示的高清ACG图片，分辨率从2K到8K。
 
 #### 自适应设备图片：
 
 - **请求方式**：GET
-- **URL**：[`https://api.rulian.us.kg/adaptive`](https://api.rulian.us.kg/adaptive)
+- **URL**：[`https://api.rls.icu/自适应`](https://api.rls.icu/自适应)
 - **描述**：自动检测设备屏幕方向，提供适合横屏或竖屏的图片。
 
 ### 图片来源：
