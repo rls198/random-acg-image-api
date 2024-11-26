@@ -10,6 +10,8 @@
 **更新时间：2024/11/26**
 
 ---
+更详细的文档 `https://api.rls.icu/`
+
 
 ## 📝 API 端点
 
@@ -40,31 +42,6 @@
 #### URL
 - 标准路径：`GET https://api.rls.icu/adaptive`
 - 中文路径：`GET https://api.rls.icu/自适应`
-
----
-
-## 💻 使用示例
-
-### HTML 使用
-<!-- 基础图片使用 -->
-<img src="https://api.rls.icu/horizontal" alt="随机横屏图片">
-
-### JavaScript 使用
-// 获取并显示图片
-fetch('https://api.rls.icu/adaptive')
-  .then(response => response.blob())
-  .then(blob => {
-    const img = document.createElement('img');
-    img.src = URL.createObjectURL(blob);
-    document.body.appendChild(img);
-  });
-
-### CSS 背景使用
-.background {
-  background-image: url('https://api.rls.icu/horizontal');
-  background-size: cover;
-  background-position: center;
-}
 
 ---
 
