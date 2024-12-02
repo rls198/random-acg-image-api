@@ -10,7 +10,7 @@
 **更新时间：2024/11/26**
 
 ---
-更详细的文档 `https://api.rls.icu/`
+更详细的文档 `https://api.rls.ovh/`
 
 
 ## 📝 API 端点
